@@ -1,8 +1,8 @@
 A simple web application using docker and flask to understand how to use docker hub.
 
-Sources are stored under https://gihub.com/lparisot/flask-example
+Sources are stored under https://github.com/lparisot/flask-example
 
-Image is build using automated build under https://hub.docker.com/lparisot/r/flask-example
+Image is build using automated build under https://hub.docker.com/r/lparisot/flask-example
 
 ## Pull your image
 
